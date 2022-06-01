@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ДвиженияТоваров" id="73d82f6b-781d-4d08-a82e-d0f7e2fd1305" configVersion="96fbbd91e4a76749be97ff21face895100000000">
+			<Metadata name="AccumulationRegister.ДвиженияТоваров.Resource.Сумма" id="130d3c58-4f43-43f8-b5ad-432e676d8f56"/>
+			<Metadata name="AccumulationRegister.ДвиженияТоваров.Dimension.Товар" id="2830bb10-0533-4447-b54d-eba2cc867a15"/>
+			<Metadata name="AccumulationRegister.ДвиженияТоваров.Resource.Количество" id="2cb28d7f-1684-439c-9899-4949aad7a2dd"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ПродажиТоваров" id="28c2f358-8b2a-462d-8a25-b0d7ebf9fc64" configVersion="ffae742ca1081b45994f202f01b473ac00000000">
+			<Metadata name="AccumulationRegister.ПродажиТоваров.Dimension.Товар" id="4d0d258a-3090-4ccf-81a9-fa3a65007de0"/>
+			<Metadata name="AccumulationRegister.ПродажиТоваров.Resource.Количество" id="97ab67bc-e08d-4ce1-9424-c5bc61b99c7b"/>
+			<Metadata name="AccumulationRegister.ПродажиТоваров.Resource.Сумма" id="9a76f5c2-6bab-40bb-94ad-d4bb410b86d8"/>
+			<Metadata name="AccumulationRegister.ПродажиТоваров.Dimension.Покупатель" id="b9cec869-0a84-4b70-90d5-cb9cba09212f"/>
+		</Metadata>
+		<Metadata name="Catalog.Контрагенты" id="073f271a-1d81-4ac1-9e00-59eade62cdbe" configVersion="53fffa44ff288242b6a1893df74dd46000000000"/>
+		<Metadata name="Catalog.Товары" id="24dc0afe-2fc2-4fa9-8bb5-21d01c848853" configVersion="11c6aa077345cb4fbe8557c41703f22600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="80e8f8fb-6997-4502-99aa-8f09bd0db596" configVersion="29a6bc5e490035498f880924cc45a04800000000"/>
+		<Metadata name="Document.ПриходТовара" id="e4bb503f-7474-453e-8060-0e3223b9cc2a" configVersion="88812c32b63eb547a9e63e1ade128f0e00000000">
+			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Товар" id="3ce0f956-4e28-4486-8a96-9c2dd60d8eef"/>
+			<Metadata name="Document.ПриходТовара.TabularSection.Товары" id="44ca6539-0fd6-4f17-bd3b-36d5dc1ba9e2"/>
+			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Сумма" id="7b9a0a68-9d79-434d-935c-3a5353395466"/>
+			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Цена" id="95030172-41ff-496b-bf4a-e30737d46912"/>
+			<Metadata name="Document.ПриходТовара.Attribute.Поставщик" id="aa09175d-f2c1-4e85-a25f-331b81f9a6e9"/>
+			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Количество" id="ee68777f-079b-4f57-a4a1-854de9689969"/>
+		</Metadata>
+		<Metadata name="Document.ПриходТовара.Form.ФормаДокумента" id="6693b6cd-7bfb-44d3-b5e4-d1375910acf1" configVersion="05c2c1d035544549955517f4913c229100000000"/>
+		<Metadata name="Document.ПриходТовара.Form.ФормаДокумента.Form" id="6693b6cd-7bfb-44d3-b5e4-d1375910acf1.0" configVersion="117abe74a5dfee4ea82ac7fe7559c39e00000000"/>
+		<Metadata name="Document.ПриходТовара.ObjectModule" id="e4bb503f-7474-453e-8060-0e3223b9cc2a.0" configVersion="c2669e2307bb1644941faeb0ebae2c8800000000"/>
+		<Metadata name="Document.ПродажаТовара" id="51fe27af-e1e6-4ba7-95ee-e8a6f298cbf7" configVersion="a97f00c483056444bfe5c0f8281a0b3200000000">
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.Количество" id="1cc07a9a-19a5-4692-a7e9-0d26e00a4fdd"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.Товар" id="3bffc00b-4e5f-4abe-9093-de435f6d8534"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.Цена" id="54f25080-e7f7-4eff-9eb9-5c6adc36e66e"/>
+			<Metadata name="Document.ПродажаТовара.Attribute.Покупатель" id="745ee644-f3c3-4d4e-9ea9-bc7578b876c8"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары" id="768f5055-78a1-4262-90df-36ddd9170ad6"/>
+			<Metadata name="Document.ПродажаТовара.TabularSection.Товары.Attribute.Сумма" id="eee750fd-b628-4d9f-a672-1b885e976737"/>
+		</Metadata>
+		<Metadata name="Document.ПродажаТовара.Form.ФормаДокумента" id="f9ccc2dc-abbf-40e1-88be-0cd3a3625cc8" configVersion="3eb5f95407ebda439f60322cc870f47d00000000"/>
+		<Metadata name="Document.ПродажаТовара.Form.ФормаДокумента.Form" id="f9ccc2dc-abbf-40e1-88be-0cd3a3625cc8.0" configVersion="8ff2f7564c58224e8fc8c5dc9e87ffcf00000000"/>
+		<Metadata name="Document.ПродажаТовара.ObjectModule" id="51fe27af-e1e6-4ba7-95ee-e8a6f298cbf7.0" configVersion="4733258d1380e04482c4a26c55cf1eae00000000"/>
+		<Metadata name="Language.Русский" id="745473ad-11d9-4c3a-a230-2d148f5d5332" configVersion="c7971166036c97418fd286c3f80b4c3800000000"/>
+		<Metadata name="Report.ДвиженияТоваров" id="86bd9b33-08f6-4800-94b6-de71133b2b90" configVersion="8c82d6c425dca14b8eb0db6d9556069000000000"/>
+		<Metadata name="Report.ДвиженияТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="58c5ce91-9fc7-42ed-bca7-29639bece8d7" configVersion="52e4dc88ef03774d9a4f87009a5d952b00000000"/>
+		<Metadata name="Report.ДвиженияТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="58c5ce91-9fc7-42ed-bca7-29639bece8d7.0" configVersion="cc6802b3de22604fa8997d33df4300c900000000"/>
+		<Metadata name="Report.Продажитоваров" id="e0d7c42e-8060-4ac7-9db4-de185939b174" configVersion="2baaea3b60590640b3dd63691845f30200000000"/>
+		<Metadata name="Report.Продажитоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="5d794c5c-dafe-42b9-8bcd-1085d229254b" configVersion="c03077de1a1efd43b4908c5a0031e78800000000"/>
+		<Metadata name="Report.Продажитоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5d794c5c-dafe-42b9-8bcd-1085d229254b.0" configVersion="1d9f40cae885a34aacc16f957bab2aec00000000"/>
+		<Metadata name="Role.Полная" id="38be646c-2665-43cb-9c94-56a14693d82a" configVersion="bedceaa4d962f24f8dfc318b5affe9fc00000000"/>
+		<Metadata name="Role.Полная.Rights" id="38be646c-2665-43cb-9c94-56a14693d82a.0" configVersion="73483ed211f29d47b9c4abd7a269ffbe00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
